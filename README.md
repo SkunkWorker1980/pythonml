@@ -10,7 +10,7 @@ This is a simple Python project that allows you to play the classic game of rock
 Getting Started
 To run the Rock-Paper-Scissors game, you'll need to have Python installed on your machine. Follow these steps to get started:
 
-Clone the project repository: git clone https://github.com/SkunkWorker1980/pythonml
+Clone the project repository: git clone https://github.com/SkunkWorker1980/pythonml.git
 Navigate to the project directory: python.ml
 Run the Python program: python main.py
 
